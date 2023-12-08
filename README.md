@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# ritik-portfolio-web
